@@ -1,6 +1,6 @@
 import React, { Component } from "react"
 
-class Compliment extends Component {
+class Compliments extends Component {
   render() {
     var data = [
       "Good effort!",
@@ -46,4 +46,4 @@ class Compliment extends Component {
   }
 }
 
-export default Compliment
+export default Compliments
